@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 High School IB Diploma Programme Student at Sir Winston Churchill Highschool, Alberta, Candada
+
 Team 3388N Nova
+
 Discord: dark_sorceror
 <!--
 **dark-sorceror/dark-sorceror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
