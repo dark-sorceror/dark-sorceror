@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-High School IB Diploma Programme Student at Sir Winston Churchill Highschool, Alberta, Candada
+High School IB Diploma Programme Student at Sir Winston Churchill High School, Alberta, Canada
 
-Team 3388N Nova
+VEX Robotics Team 3388N Nova
 
 Discord: dark_sorceror
 <!--
