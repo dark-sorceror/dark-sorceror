@@ -1,8 +1,4 @@
-### Hi there 👋
-
-High School IB Diploma Programme Student at Sir Winston Churchill High School, Alberta, Canada
-
-VEX Robotics Team 3388N Nova
+haoyan.ca
 
 <!--
 **dark-sorceror/dark-sorceror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
