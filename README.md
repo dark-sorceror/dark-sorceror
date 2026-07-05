@@ -4,9 +4,8 @@ Software Engineering @ McMaster University
 
 ### Currently
  - SWE @ [TraceRoot.AI (YC S25)](https://traceroot.ai/)
- - AI @ [Corall](https://corall.co)
+ - Embedded & Controls Software Lead at McMaster Exoskeleton
  - AI/ML at McMaster EcoCAR
- - Embedded Software at McMaster Exoskeleton
 
  ### Previously
  - Built [Neurinese](https://github.com/dark-sorceror/Neurinese)
