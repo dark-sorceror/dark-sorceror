@@ -1,16 +1,15 @@
 # Hao Yan
 
-Software Engineering @ McMaster University
-
 ### Currently
- - SWE @ [TraceRoot.AI (YC S25)](https://traceroot.ai/)
- - Embedded & Controls Software Lead at McMaster Exoskeleton
- - AI/ML at McMaster EcoCAR
+- Founding Engineer @ [TraceRoot.AI (YC S25)](https://traceroot.ai/) — observability and self-healing for AI agents
+- Software Engineering @ McMaster University
+- Building [Lumen](https://github.com/dark-sorceror/Lumen) — a white-box research instrument for open-weight LLMs
+- Embedded & Controls Software Lead @ McMaster Exoskeleton
+- AI/ML @ McMaster EcoCAR
 
- ### Previously
- - Built [Neurinese](https://github.com/dark-sorceror/Neurinese)
-   - Grammarly/Copilot for handwritten Chinese
- - Autonomous & Mechanical Engineer — VEX Robotics Team 3388N
+### Previously
+- Built [Neurinese](https://github.com/dark-sorceror/Neurinese) — Grammarly/Copilot for handwritten Chinese
+- Autonomous Robotics Engineer — VEX Robotics Team 3388N
 
 [haoyan.ca](https://haoyan.ca) · [LinkedIn](https://www.linkedin.com/in/hao-yan-212921274/) · [X](https://x.com/darksorceror_)
 
