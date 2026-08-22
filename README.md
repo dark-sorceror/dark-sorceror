@@ -1,9 +1,9 @@
 # Hao Yan
 
 ### Currently
-- Founding Engineer @ [TraceRoot.AI (YC S25)](https://traceroot.ai/) — observability and self-healing for AI agents
+- Founding Engineer @ [TraceRoot.AI (YC S25)](https://traceroot.ai/) — building infrastructure that lets AI agents debug and fix themselves
 - Software Engineering @ McMaster University
-- Building [Lumen](https://github.com/dark-sorceror/Lumen) — a white-box research instrument for open-weight LLMs
+- Building [Lumen](https://github.com/dark-sorceror/Lumen) — probing what post-training actually does inside open-weight LLMs
 - Embedded & Controls Software Lead @ McMaster Exoskeleton
 - AI/ML @ McMaster EcoCAR
 
