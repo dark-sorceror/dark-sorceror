@@ -2,14 +2,14 @@
 
 ### Currently
 - Founding Engineer @ [TraceRoot.AI (YC S25)](https://traceroot.ai/) — building infrastructure that lets AI agents debug and fix themselves
-- Co-founder @ [ML³ Labs](https://ml3labs.com)
-- Building [Lumen](https://github.com/dark-sorceror/Lumen) — what did my AI agent forget?
+- Co-founder @ [ML³ Labs](https://ml3labs.com) 
+- Building [Lumen](https://github.com/dark-sorceror/Lumen) — see what your agent sees
 - Embedded & Controls Software Lead @ [McMaster Exoskeleton](https://macexo.com)
 - AI/ML @ [McMaster EcoCAR](https://www.macecocar.ca)
 - Software Engineering @ McMaster University
 
 ### Previously
-- Built Goosetriever — a voice-controlled, self-driving assistive robot 🏆 Hack the North 2026
+- Built [Goosetriever](https://github.com/dark-sorceror/Goosetriever) — a voice-controlled, self-driving assistive robot 🏆 Hack the North 2026
 - Built [Neurinese](https://github.com/dark-sorceror/Neurinese) — Grammarly/Copilot for handwritten Chinese
 - Autonomous Robotics Engineer — VEX Robotics Team 3388N
 
